@@ -1,0 +1,64 @@
+Abandoned Bicycle 1159
+Abandoned Vehicle - On Private Property 1068
+Abandoned Vehicle - On Public Property 5917
+Alley Cleaning 5792
+Alley Repair 926
+Bicycle Services 374
+Bulk Collection 54895
+Bus/Rail Issues 252
+Christmas Tree Removal-Seasonal 156
+Container Removal 2059
+DC Government Information  137
+DDS - Serious Medication Error 4
+Dead Animal Collection 2987
+DMV - Adjudication Supervisor 130
+DMV - Appeal 2
+DMV - Copy of Ticket 319
+DMV - Driver and Vehicle Services Refund 79
+DMV - Driver Record Issues 51
+DMV - Drivers License/ID Issues 2965
+DMV - Drivers License/ID Reinstatement 38
+DMV - eTIMS Ticket Alert Services Issues 38
+DMV - Forms, Applications, and Manuals Request 281
+DMV - Hearings 78
+DMV - Offset Tracking 10
+DMV - Online Processing Issues 414
+DMV - Processing Center Manager 145
+DMV - Refunds - Tickets 119
+DMV - Ticket Payment Dispute 193
+DMV - Vehicle Inspection Issues 33
+DMV - Vehicle Insurance Lapse 140
+DMV - Vehicle Registration Issues 1418
+DMV - Vehicle Title Issues 442
+DOEE - Bag Law Tips 6
+DOEE - Ban on Foam Food Containers 2
+DOEE - Construction - Erosion Runoff 253
+DOEE - Energy Benchmarking 1
+DOEE - Engine Idling Tips 84
+DOEE - Foam Ban / Food Container Requirements 15
+DOEE - General Environmental Concerns 111
+DOEE - Foam Ban / Food Service Ware Requirements 1
+DOEE - Nuisance Odor Complaints 170
+Emergency - Flooding 7
+Emergency - Heating and Cooling 2
+Emergency - Power Outage/Wires Down 43
+Emergency No-Parking Verification 16793
+Eviction 1
+FEMS - Community Events 762
+FEMS - Smoke Alarm Application 1066
+Graffiti Removal 5310
+Grass and Weeds Mowing 1476
+Homeless Services - Winter/Hypothermia Season 21
+How Is My Driving - Complaint 296
+How Is My Driving - Compliment 19
+Hypothermia Shelter Information 13
+Illegal Dumping 7959
+Illegal Fireworks 8
+Illegal Poster 778
+Insect Treatment 231
+Leaf Season Collection 873
+Out of State Parking Violation (ROSA) 3784
+Parking Enforcement 40929
+Parking Meter Repair 40778
+Pothole 10869
+Public Space Litter Can- Installation/Removal/Repair 507

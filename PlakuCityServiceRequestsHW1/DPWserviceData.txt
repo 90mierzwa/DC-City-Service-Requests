@@ -1,0 +1,7 @@
+BulkCollection 54895
+EmergencyNoParkingVerfication 16793
+IllegalDumping 7959
+ParkingEnforcement 40929
+ResidentialParkingPermitViolation 9589
+SanitationEnforcement 11877
+TrashCollectionMissed 11555
